@@ -1,0 +1,6 @@
+   --------     MOVIMENTO: 1 PARA BAIXO     --------     
+   --------     MOVIMENTO: 1 PARA ESQUERDA     --------     
+   --------     MOVIMENTO: 1 PARA CIMA     --------     
+   --------     MOVIMENTO: 3 PARA DIREITA     --------     
+   --------     MOVIMENTO: 3 PARA DIREITA     --------     
+   --------     MOVIMENTO: 10 PARA DIREITA     --------     
